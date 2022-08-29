@@ -1,0 +1,64 @@
+.fdFooter {
+    margin-top: 150px;
+    color: #77878b; 
+    margin-bottom:100px;
+    text-align: center;
+}
+
+.fdUserArea {
+    max-height: 200px; 
+    background:#77878b;
+    color:#FFF; 
+    padding: 50px; 
+    margin-bottom: 35px; 
+    margin-top:5px;
+}
+
+.fdFileInfo {
+    font-size:11px;
+    font-family: "Operator Pro";
+    color:#77878b;
+    width:150px; 
+    margin-top:15px;
+}
+
+th {
+    border: none;
+}
+
+input.tags {
+    /* padding-bottom: 80px; */
+    padding: 8px 8px !important;
+    box-sizing: border-box;
+}
+
+div.tags {
+    padding-bottom: 80px;
+    text-align: center;
+    color: #77878b;
+}
+
+#tagcloud {
+    text-align: center;
+
+}
+
+#tagcloud li {
+    display: inline-block;
+    text-align: center;
+    margin: 8px;
+    padding: 8px;
+}
+
+
+#drop-area {
+    border: 2px dashed #ccc;
+    border-radius: 20px;
+    padding: 20px;
+}
+#drop-area.highlight {
+    border-color: purple;
+}
+#fileElem {
+    display: none;
+}
