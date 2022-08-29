@@ -1,0 +1,13 @@
+# Deny access to all secret resources
+
+<Files ".htaccess">
+    Require all denied
+</Files>
+
+<Files "secrets.php">
+    Require all denied
+</Files>
+
+<Files "users.tsv">
+    Require all denied
+</Files>
