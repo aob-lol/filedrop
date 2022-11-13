@@ -2,11 +2,9 @@
 Operator-centric filedrop written in vanilla PHP
 
 
-Currently all development is in Master branch. 
-
 ## philosophy
 
-if you can stand up an apache2 / nginx http server, you can operate a filedrop.
+if you can stand up an apache2 / nginx http server, you should operate a filedrop.
 
 
 ## usage
